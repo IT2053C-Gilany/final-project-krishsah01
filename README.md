@@ -1,6 +1,6 @@
 # 📊 Final Project - Edit me!
 
-By: Student Name
+By: Krish Sah
 
 ---
 
@@ -45,3 +45,28 @@ For the final submission, you will need to make sure your notebook is organized 
 - Analysis and Visualization
 - Conclusions
 - Appendix and References
+
+## Analysis Plan (Markdown Summary)
+
+### Dataset Overview
+
+- **Dataset**: Electric Vehicle Population Data (Data.gov)
+- **Why this dataset?**
+  - The shift toward electric vehicles is a major trend in transportation and environmental sustainability.
+  - This dataset provides detailed registration data such as make, model, location (state/city), and model year.
+  - It is ideal for understanding adoption trends and regional patterns.
+
+### Research Questions
+
+- **Q1**: Which electric vehicle makes and models are most popular?
+- **Q2**: Which states/cities lead in EV adoption?
+- **Q3**: How has EV adoption changed over time based on the model year?
+
+### Planned Visualizations
+
+- **Bar Chart for Top EV Makes/Models**
+  - Helps identify market leaders in EV popularity.
+- **Choropleth Map or Bar Graph for EVs by State/City**
+  - Highlights geographic concentration of EV adoption.
+- **Line Chart for EV registrations over time (by model year)**
+  - Illustrates how EV adoption has increased and which years show peak growth.
